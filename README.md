@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Kanhaiya<br>🔭 I’m currently working on full-stack apps using React, Next.js, and BaaS<br>🌱 Learning System Design & exploring AI-assisted development<br>💬 Ask me about building dashboards, auth systems, or debugging React apps<br>🤝 Looking to collaborate on practical, user-focused web projects<br>🚀 Actively seeking a full-time SDE role<br>⚡ Fun fact: I debug like a detective—curious, methodical, and relentless<br>
+# 👋 Hi, I'm Kanhaiya
+💫 About Me:<br>🔭 I’m currently working on full-stack apps using React, Next.js, and BaaS<br>🌱 Learning System Design & exploring AI-assisted development<br>💬 Ask me about building dashboards, auth systems, or debugging React apps<br>🤝 Looking to collaborate on practical, user-focused web projects<br>🚀 Actively seeking a full-time SDE role<br>⚡ Fun fact: I debug like a detective—curious, methodical, and relentless<br>
 
 
 ## 🌐 Socials:
